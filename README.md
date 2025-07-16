@@ -1,0 +1,2 @@
+# tock-Price-Prediction-Challenge-with-Fourier-Time-Series-Hybrid-Model-
+This project predicts next-day stock returns using a hybrid machine learning model that combines time-series statistical features with Fourier Transform (FFT) frequency analysis. Despite low R², the model demonstrates consistent directional accuracy and robust quantile performance—highlighting its potential in financial forecasting tasks.
